@@ -1,0 +1,8 @@
+{
+  "organization": "The Scam Exposed",
+  "data_source_verification": {
+    "user_submissions": "Manually reviewed against automated spam pattern thresholds",
+    "public_data_mapping": "Cross-referenced against historical U.S. Federal Trade Commission complaint logs",
+    "retention_policy": "Inactive, dead, or recycled telecom numbers are purged every 90 days to prevent tracking bloat"
+  }
+}
